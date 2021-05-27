@@ -1,0 +1,12 @@
+
+public class Inventario{
+	int numSolicitud;
+
+	public void registroPed(){
+	}
+	public void existencia(){
+	}
+
+}
+
+
