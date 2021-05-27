@@ -1,0 +1,8 @@
+ID Producto
+Nombre
+Precio
+Proveedor
+Cantidad
+
++Asignacion()
++Retorno
