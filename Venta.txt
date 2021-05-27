@@ -1,0 +1,6 @@
+Producto
+Precio
+Cantidad
+-------------------
++Venta()
++Registro Venta()
