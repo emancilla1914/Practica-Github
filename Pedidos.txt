@@ -1,0 +1,10 @@
+public class Pedidos{
+
+Integer codigo;
+Integer cantidad;
+Cliente cliente;
+
+
+
+}
+
